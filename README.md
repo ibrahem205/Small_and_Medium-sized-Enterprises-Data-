@@ -1,7 +1,7 @@
 # Small_and_Medium-sized-Enterprises-Data-
 # تحليل بيانات المنشات 
 يمكنك رؤية التحليلات من هنا:
-(https://drive.google.com/file/d/1xzwMgKeOvnUpnkEwX7BC4IVHN9qAXJmc/view?usp=sharing)
+(https://drive.google.com/file/d/1AtwfjeP9M_OruQKcHRp1FMxXGa_HNPh6/view?usp=sharing)
 
 # ملاحظات: 
 In smes_data.py
