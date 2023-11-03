@@ -1,7 +1,15 @@
 # Small_and_Medium-sized-Enterprises-Data-
-In smes_data.py 
-- Replace the directory for the CSV Files according to your machine 
+# تحليل بيانات المنشات 
+يمكنك رؤية التحليلات من هنا:
+(https://drive.google.com/file/d/1xzwMgKeOvnUpnkEwX7BC4IVHN9qAXJmc/view?usp=sharing)
 
+# ملاحظات: 
+In smes_data.py
+
+Replace the directory for the CSV Files to your machine directory
+# مراجع
+
+البيانات : (https://od.data.gov.sa/Data/ar/dataset/the-total-number-of-enterprises-2023)
 -------------------------------------------
 Email
 Ibrahemal3334@gmail.com
